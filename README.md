@@ -1,7 +1,5 @@
-- 😎
-![ea072513737b5861f127d8ca36385069](https://github.com/user-attachments/assets/1a0b7cf6-93e1-4532-a24b-fde501f43cca) 
-![ef2582721184c5ac19abb59c15923b11](https://github.com/user-attachments/assets/3df67516-70ec-4389-a177-0bccbd90c3ad)
-
+![f31c127bb4c7fced9c399da902fbb7bd](https://github.com/user-attachments/assets/9291940c-92d0-422a-93f8-6d650d23f12a)
+help
 
 <!---
 justbeekind/justbeekind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
