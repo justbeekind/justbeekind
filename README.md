@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**justbeekind/justbeekind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikita, a Computer Science student at the University of Connecticut and a full-stack developer based in Connecticut.
 
-Here are some ideas to get you started:
+I build whatever sounds interesting — sometimes useful tools, sometimes fun experiments. If an idea sticks with me, it usually ends up here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing a contract automation platform at 2 Wings Risk Services using Java, Spring Boot, Angular, and PostgreSQL. Working on personal projectsOn the side.
+
+## Tools & Tech
+
+- **Languages:** C++, Python, Java, C#, JavaScript, TypeScript, SQL
+- **Frameworks:** Angular, Spring Boot
+- **Tools:** PostgreSQL, Git, Bash, Zsh
+
+## A Bit About Me
+
+- 🏋️ Into weightlifting, rock climbing, and track & field
+- ♟️ Enjoy playing Chess
+- ⌨️ Build custom mechanical keyboards
+- 🌍 Speak English, Russian, and Belarusian
